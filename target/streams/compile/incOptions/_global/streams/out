@@ -1,0 +1,33 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/hankchen/us/computer_science/2nd_graduate_degree - ASU_MCS_2024/511_Data_Processing_at_Scale/hot_spot_analysis_project/CSE511-Project-Hotspot-Analysis/target/scala-2.11/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/hankchen/us/computer_science/2nd_graduate_degree - ASU_MCS_2024/511_Data_Processing_at_Scale/hot_spot_analysis_project/CSE511-Project-Hotspot-Analysis/target/scala-2.11/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HotzoneAnalysis$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HotcellAnalysis$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HotcellAnalysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Entrance.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HotcellAnalysis$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HotzoneAnalysis$$anonfun$runHotZoneAnalysis$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HotcellAnalysis$$anonfun$runHotcellAnalysis$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HotcellAnalysis$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Entrance$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HotzoneUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HotcellUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HotcellAnalysis$$anonfun$runHotcellAnalysis$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HotcellAnalysis$$anonfun$runHotcellAnalysis$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HotzoneAnalysis$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HotcellAnalysis$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HotcellUtils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HotzoneAnalysis$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HotzoneAnalysis$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HotzoneUtils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Entrance$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HotzoneAnalysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HotzoneAnalysis$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HotcellAnalysis$$anonfun$runHotcellAnalysis$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HotzoneAnalysis$$anonfun$runHotZoneAnalysis$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HotcellAnalysis$$anonfun$runHotcellAnalysis$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/hankchen/us/computer_science/2nd_graduate_degree - ASU_MCS_2024/511_Data_Processing_at_Scale/hot_spot_analysis_project/CSE511-Project-Hotspot-Analysis/target/scala-2.11/classes.bak[0m
