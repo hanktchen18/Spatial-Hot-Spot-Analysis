@@ -3,6 +3,8 @@
 ## About
 This project performs numerous spatial queries on a large database containing geographic information and the real-time locations of customers from a well-known taxi company.
 
+![proj_2](https://github.com/user-attachments/assets/b5afee62-9ad7-4191-91e1-fc033e38e72c)
+
 ### Hot zone analysis
 A range join operation is performed on rectangle datasets and a point dataset. For each rectangle, the number of points located within it is determined. A "hotter" rectangle includes more points. This task calculates the hotness of all rectangles based on the number of points they contain.
 
