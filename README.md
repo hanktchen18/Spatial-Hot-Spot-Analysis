@@ -18,7 +18,7 @@ Submit Format: [http://sigspatial2016.sigspatial.org/giscup2016/submit](http://s
 #### Special requirement (different from GIS CUP)
 This analysis implements a Spark program to calculate the Getis-Ord statistic on NYC Taxi Trip datasets, termed "**Hot cell analysis**". To reduce computational power needs, the following modifications have been made: 
 
-To reduce the computation power needï¼Œwe made the following changes:
+To reduce the computation power need, we made the following changes:
 
 1. **Input Data**: Monthly taxi trip datasets from 2009 to 2012 (e.g., yellow_tripdata_2009-01_point.csv, yellow_tripdata_2010-02_point.csv).
 2. **Cell Unit Size**: Each cell is 0.01° latitude by 0.01° longitude.
